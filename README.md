@@ -1,2 +1,1 @@
-# statscan
-StatsCan Open Data project
+# Crowdsourcing with StatCan
